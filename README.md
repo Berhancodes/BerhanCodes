@@ -3,7 +3,7 @@
 I'm a second-year CS student specializing in Cybersecurity, proficient in Python, Golang, JavaScript, HTML, and CSS. Passionate about problem-solving, I'm actively seeking internship opportunities to apply and enhance my skills.
 
 # 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/a-berhan-7158a5278) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-berhan-7158a5278/) 
 
 # 💻 Tech Stack:
 ## Languages 
