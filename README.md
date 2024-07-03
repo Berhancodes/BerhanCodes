@@ -4,7 +4,7 @@ I'm a second-year CS student specializing in Cybersecurity, proficient in Python
 
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-berhan-7158a5278/) 
-[![Portfolio](https://icons8.com/icon/115648/resume)](https://berhansportfolio.netlify.app/)
+[![Portfolio](https://img.icons8.com/?size=100&id=115648&format=png&color=000000)](https://berhansportfolio.netlify.app/)
 
 # 💻 Tech Stack:
 ## Languages 
